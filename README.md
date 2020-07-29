@@ -1,2 +1,2 @@
 # utils
-functions for data science challenges
+Documenting some odds-and-ends 
